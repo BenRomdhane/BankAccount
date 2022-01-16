@@ -1,0 +1,7 @@
+/home/dali/workspace1/BankAccount/src/main/java/main/BankAccountMain.java
+/home/dali/workspace1/BankAccount/src/main/java/domain/account/Balance.java
+/home/dali/workspace1/BankAccount/src/main/java/domain/account/exception/AccountException.java
+/home/dali/workspace1/BankAccount/src/main/java/domain/account/Statement.java
+/home/dali/workspace1/BankAccount/src/main/java/domain/transaction/Transaction.java
+/home/dali/workspace1/BankAccount/src/main/java/domain/account/Account.java
+/home/dali/workspace1/BankAccount/src/main/java/domain/transaction/TransactionType.java
